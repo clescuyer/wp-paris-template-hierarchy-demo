@@ -1,0 +1,6 @@
+mkdir -p wp-paris/www
+cd wp-paris/www
+../../wordpress-install.sh wp-paris
+valet link wp-paris
+
+wp scaffold child-theme wp-paris --parent_theme=twentyseventeen

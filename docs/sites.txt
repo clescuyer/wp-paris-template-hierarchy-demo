@@ -1,0 +1,18 @@
+# Hiérarchie des templates
+
+
+## La page officielle sur wordpress.org
+
+https://developer.wordpress.org/themes/basics/template-hierarchy/
+
+## Une ressource visuelle interactive
+
+https://wphierarchy.com/
+
+## Article en français sur Capitaine WP
+
+https://capitainewp.io/formations/developper-theme-wordpress/template-hierarchy/
+
+## Article plus complet sur WP Beginner
+
+https://www.wpbeginner.com/wp-themes/wordpress-template-hierarchy-explained/
