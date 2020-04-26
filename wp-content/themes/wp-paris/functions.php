@@ -36,8 +36,9 @@ add_action( 'init', function() {
 	$args = array(
 		'hierarchical'      => true,  // Pour avoir des checkboxes
 		'labels'            => $labels_destinations,
+		'rewrite'           => array( 'slug' => 'destination' ),
 		'show_admin_column' => true,  // Afficher dans la colonne dans la liste
-		'show_in_rest'      => true,  // Pour Gutengerg
+		'show_in_rest'      => true,  // Pour Gutenberg
 	);
 
 	// "Destinations" is a global taxonomy shared amongst most custom post types.
