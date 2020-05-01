@@ -16,3 +16,8 @@ https://capitainewp.io/formations/developper-theme-wordpress/template-hierarchy/
 ## Article plus complet sur WP Beginner
 
 https://www.wpbeginner.com/wp-themes/wordpress-template-hierarchy-explained/
+
+## Le code de démo sur Github
+
+https://github.com/clescuyer/wp-paris-template-hierarchy-demo
+
