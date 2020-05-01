@@ -41,7 +41,6 @@ add_action( 'init', function() {
 		'show_in_rest'      => true,  // Pour Gutenberg
 	);
 
-	// "Destinations" is a global taxonomy shared amongst most custom post types.
 	register_taxonomy( 'destinations', array( 'post' ), $args );
 } );
 
